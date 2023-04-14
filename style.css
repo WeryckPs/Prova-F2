@@ -1,0 +1,30 @@
+body {
+    backgorud:rgb(173, 50, 50)
+}
+ #tudo {
+    margin: 77px;
+ }
+UL{
+    list=style-type:none;
+    margin: 77px;;
+    padding: 0px;;
+    background-color: #006400;
+    border:solid 1px#555;
+    
+}
+ #titulo {
+    text-align: center;
+ }
+ #rodape {
+    text-align: center;
+ }
+ #nome1 {
+   margin: 77px;;
+ }
+ #nome2 {
+   margin:77px;;
+   padding: 0px;;
+ }
+ #curintia {
+    margin: 66px;
+ }
