@@ -5,26 +5,36 @@ body {
     margin: 77px;
  }
 UL{
-    list=style-type:none;
-    margin: 77px;;
+    list-style-type: none;
+    margin: 0px;;
     padding: 0px;;
     background-color: #006400;
-    border:solid 1px#555;
+    border:150px solid 1px#555;
+    width: 1000px;
     
 }
  #titulo {
     text-align: center;
+    padding:0px;
  }
  #rodape {
     text-align: center;
+    padding: 0px;
  }
  #nome1 {
-   margin: 77px;;
+   margin: 0px;;
  }
  #nome2 {
-   margin:77px;;
+   margin-bottom:20px;
    padding: 0px;;
  }
  #curintia {
     margin: 66px;
  }
+ #home {
+    text-decoration: none;
+ }
+ UL li a  {
+    text-decoration: none; color: white;
+}
+
